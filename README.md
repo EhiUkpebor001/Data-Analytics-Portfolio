@@ -1,59 +1,34 @@
 # 📊 Data-Analytics-Portfolio
-Data analytics projects using Excel, SQL, Power BI, and Python.
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?logo=googlesheets&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
-## About Me
+## 👋 About Me
 Hello! I'm **Ehiremhen Ukpebor**, a Computer Science graduate with practical experience in *Data Analytics, Excel, SQL, Power BI and Python*. <br>
 I enjoy transforming raw data into meaningful insights that help organizations make better business decisions.
 
-## My experience includes:
-1. Data Analysis
-2. Dashboard Development
-3. Microsoft Excel
-4. SQL
-5. Power BI
-6. Python
-7. Data Cleaning
-8. Data Visualization
-9. Reporting
-10. Business Intelligence
 
-## Skills
-**Data Analysis**
-- Exploratory Data Analysis (EDA)
+## 📌 At a Glance
+🎓 **Education:** B.Sc. Computer Science (Information Systems), Babcock University
+📍 **Location:** Port Harcourt, Rivers State, Nigeria
+💼 **Career Focus:** Data Analytics • Business Intelligence • Reporting
+📊 **Core Skills:** Data Cleaning, Dashboard Development, Data Visualization, Exploratory Data Analysis (EDA)
+🛠️ **Tools:** Microsoft Excel, SQL, Power BI, Python, Google Sheets
+🌱 **Currently Learning:** Advanced Power BI, DAX, Python for Data Analysis
+
+## 🛠️ My Skills and Experience includes:
+- Microsoft Excel (Power Query, Pivot Tables, XLOOKUP, INDEX/MATCH)
+- SQL
+- Power BI
+- Python (Pandas, NumPy)
 - Data Cleaning
-- Data Transformation
-- Data Validation
-- Statistical Analysis
-
-**Microsoft Excel**
-- Pivot Tables
-- Power Query
-- XLOOKUP
-- INDEX/MATCH
-- SUMIFS
-- Charts
-- Dashboards
-
-**SQL**
-- SELECT
-- JOIN
-- GROUP BY
-- HAVING
-- Window Functions
-- Subqueries
-
-**Power BI**
-- Data Modeling
-- DAX
-- Interactive Dashboards
-- KPI Reporting
-
-**Python**
-- Pandas
-- NumPy
-- Matplotlib
-
-## Featured Projects
+- Data Visualization
+- Exploratory Data Analysis (EDA)
+  
+## ⭐ Featured Projects
 ### 📈 Employee Data Analysis Dashboard
 Interactive HR dashboard analyzing employee demographics, salaries, hiring, and terminations.
 
@@ -96,14 +71,16 @@ Collection of SQL queries demonstrating joins, aggregations, filtering, and repo
 ## Currently Learning
 - Advanced Power BI
 - Python for Data Analysis
-- Machine Learning
+- DAX
 - Business Intelligence
 
 ## 📜 Professional Certificates
 - 🎓 Professional Data Analytics Training – Speedlink Hi-Tech Solutions Limited
   - Topics: Microsoft Excel, Power BI, SQL, Python
 
-## Contact
-**LinkedIn:** https://www.linkedin.com/in/ehiremhen-ukpebor/ <br>
-**GitHub:** https://github.com/EhiUkpebor001 <br>
-**Email:** ehiremhenukpebor@gmail.com <br>
+## 📫 Connect With Me
+💼 **LinkedIn:** https://www.linkedin.com/in/ehiremhen-ukpebor/ <br>
+📧 **Email:** ehiremhenukpebor@gmail.com <br>
+💻 **GitHub:** https://github.com/EhiUkpebor001 <br>
+
+Thank you for visiting my portfolio! Feel free to explore my projects and connect with me.
