@@ -1,11 +1,11 @@
 # 📊 Data-Analytics-Portfolio
 Data analytics projects using Excel, SQL, Power BI, and Python.
 
-# About Me
+## About Me
 Hello! I'm **Ehiremhen Ukpebor**, a Computer Science graduate with practical experience in *Data Analytics, Excel, SQL, Power BI and Python*. <br>
 I enjoy transforming raw data into meaningful insights that help organizations make better business decisions.
 
-# My experience includes:
+## My experience includes:
 1. Data Analysis
 2. Dashboard Development
 3. Microsoft Excel
@@ -17,7 +17,7 @@ I enjoy transforming raw data into meaningful insights that help organizations m
 9. Reporting
 10. Business Intelligence
 
-# Skills
+## Skills
 **Data Analysis**
 - Exploratory Data Analysis (EDA)
 - Data Cleaning
@@ -53,11 +53,9 @@ I enjoy transforming raw data into meaningful insights that help organizations m
 - NumPy
 - Matplotlib
 
-# Featured Projects
-## 📈 Employee Data Dashboard
-**Tools**
-- Excel
-- Power BI
+## Featured Projects
+### 📈 Employee Data Analysis Dashboard
+Interactive HR dashboard analyzing employee demographics, salaries, hiring, and terminations.
 
 **Highlights**
 - Cleaned company dataset
@@ -65,9 +63,10 @@ I enjoy transforming raw data into meaningful insights that help organizations m
 - Built interactive dashboards
 - Identified workforce trends
 
-## 📊 Human Preference Analysis
-**Tools**
-- Excel
+➡️ [View Project](Employee-Data-Analysis/)
+
+### 👥 Human Preference Analysis
+Survey analysis using Excel, Power Query, and Pivot Tables.
 
 **Highlights**
 - Power Query
@@ -75,10 +74,10 @@ I enjoy transforming raw data into meaningful insights that help organizations m
 - Data Cleaning
 - Trend Analysis
 
- ## 📣 Female Founders Circle Analytics
-**Tools**
-- Excel
-- Power BI
+➡️ [View Project](Human-Preference-Analysis/)
+
+### 📊 FFC Marketing Analytics
+Campaign performance analysis and KPI reporting for the Female Founders Circle.
 
 **Highlights**
 - Social media analytics
@@ -87,13 +86,20 @@ I enjoy transforming raw data into meaningful insights that help organizations m
 - Platform comparison
 - Marketing insights
 
-# Currently Learning
+➡️ [View Project](FFC-Marketing-Analytics/)
+
+### 💾 SQL Practice
+Collection of SQL queries demonstrating joins, aggregations, filtering, and reporting.
+
+➡️ [View Project](SQL-Practice/)
+
+## Currently Learning
 - Advanced Power BI
 - Python for Data Analysis
 - Machine Learning
 - Business Intelligence
 
-# Contact
+## Contact
 **LinkedIn:** https://www.linkedin.com/in/ehiremhen-ukpebor/ <br>
 **GitHub:** https://github.com/EhiUkpebor001 <br>
 **Email:** ehiremhenukpebor@gmail.com <br>
