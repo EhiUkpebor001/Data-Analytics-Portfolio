@@ -10,14 +10,13 @@
 Hello! I'm **Ehiremhen Ukpebor**, a Computer Science graduate with practical experience in *Data Analytics, Excel, SQL, Power BI and Python*. <br>
 I enjoy transforming raw data into meaningful insights that help organizations make better business decisions.
 
-
 ## 📌 At a Glance
-🎓 **Education:** B.Sc. Computer Science (Information Systems), Babcock University
-📍 **Location:** Port Harcourt, Rivers State, Nigeria
-💼 **Career Focus:** Data Analytics • Business Intelligence • Reporting
-📊 **Core Skills:** Data Cleaning, Dashboard Development, Data Visualization, Exploratory Data Analysis (EDA)
-🛠️ **Tools:** Microsoft Excel, SQL, Power BI, Python, Google Sheets
-🌱 **Currently Learning:** Advanced Power BI, DAX, Python for Data Analysis
+🎓 **Education:** B.Sc. Computer Science (Information Systems), Babcock University <br>
+📍 **Location:** Port Harcourt, Rivers State, Nigeria <br>
+💼 **Career Focus:** Data Analytics • Business Intelligence • Reporting <br>
+📊 **Core Skills:** Data Cleaning, Dashboard Development, Data Visualization, Exploratory Data Analysis (EDA) <br>
+🛠️ **Tools:** Microsoft Excel, SQL, Power BI, Python, Google Sheets <br>
+🌱 **Currently Learning:** Advanced Power BI, DAX, Python for Data Analysis, Business Intelligence
 
 ## 🛠️ My Skills and Experience includes:
 - Microsoft Excel (Power Query, Pivot Tables, XLOOKUP, INDEX/MATCH)
@@ -67,12 +66,6 @@ Campaign performance analysis and KPI reporting for the Female Founders Circle.
 Collection of SQL queries demonstrating joins, aggregations, filtering, and reporting.
 
 ➡️ [View Project](SQL-Practice/)
-
-## Currently Learning
-- Advanced Power BI
-- Python for Data Analysis
-- DAX
-- Business Intelligence
 
 ## 📜 Professional Certificates
 - 🎓 Professional Data Analytics Training – Speedlink Hi-Tech Solutions Limited
