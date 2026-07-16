@@ -99,6 +99,10 @@ Collection of SQL queries demonstrating joins, aggregations, filtering, and repo
 - Machine Learning
 - Business Intelligence
 
+## 📜 Professional Certificates
+- 🎓 Professional Data Analytics Training – Speedlink Hi-Tech Solutions Limited
+  - Topics: Microsoft Excel, Power BI, SQL, Python
+
 ## Contact
 **LinkedIn:** https://www.linkedin.com/in/ehiremhen-ukpebor/ <br>
 **GitHub:** https://github.com/EhiUkpebor001 <br>
