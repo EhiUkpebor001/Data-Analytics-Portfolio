@@ -7,7 +7,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 ## 👋 About Me
-Hello! I'm **Ehiremhen Ukpebor**, a Computer Science graduate with practical experience in *Data Analytics, Excel, SQL, Power BI and Python*. <br>
+Hello! I'm **Ehiremhen Ukpebor**, a Computer Science graduate with practical experience in *Data Analytics, Excel, SQL, Power BI, and Python*. <br>
 I enjoy transforming raw data into meaningful insights that help organizations make better business decisions.
 
 ## 📌 At a Glance
@@ -18,7 +18,7 @@ I enjoy transforming raw data into meaningful insights that help organizations m
 🛠️ **Tools:** Microsoft Excel, SQL, Power BI, Python, Google Sheets <br>
 🌱 **Currently Learning:** Advanced Power BI, DAX, Python for Data Analysis, Business Intelligence
 
-## 🛠️ My Skills and Experience includes:
+## 🛠️ My Skills and Experience include:
 - Microsoft Excel (Power Query, Pivot Tables, XLOOKUP, INDEX/MATCH)
 - SQL
 - Power BI
@@ -27,40 +27,39 @@ I enjoy transforming raw data into meaningful insights that help organizations m
 - Data Visualization
 - Exploratory Data Analysis (EDA)
   
-## ⭐ Featured Projects
-### 📈 Employee Data Analysis Dashboard
-Interactive HR dashboard analyzing employee demographics, salaries, hiring, and terminations.
+## ⭐ Featured Project
+### 📈 HR Workforce Analytics Dashboard
+An interactive HR dashboard analyzing employee demographics, salaries, hiring, and terminations.
 
 **Highlights**
-- Cleaned company dataset
+- Cleaned the company dataset
 - Performed exploratory data analysis
 - Built interactive dashboards
 - Identified workforce trends
 
-➡️ [View Project](Employee-Data-Analysis/)
+➡️ **[View Project](HR-Workforce-Analytics-Dashboard/)**
+
+## 📂 Other Projects
+
+### 👔 Employee Workforce Analysis
+Workforce analytics dashboard exploring employee onboarding, tenure, salary distribution, education, and job category trends using Microsoft Excel.
+
+➡️ **[View Project](Employee-Workforce-Analysis/)**
+
+### 📣 Female Founders Circle Marketing Analytics
+Campaign performance analysis, KPI reporting, and marketing insights.
+
+➡️ **[View Project](FFC-Marketing-Analytics/)**
+
+### 💡 Innovation Department KPI Dashboard
+Operational KPI dashboard built with a simulated dataset to monitor prototype development, commercialization, collaboration, and innovation performance.
+
+➡️ **[View Project](Innovation-KPI-Dashboard/)**
 
 ### 👥 Human Preference Analysis
 Survey analysis using Excel, Power Query, and Pivot Tables.
 
-**Highlights**
-- Power Query
-- Pivot Tables
-- Data Cleaning
-- Trend Analysis
-
-➡️ [View Project](Human-Preference-Analysis/)
-
-### 📊 FFC Marketing Analytics
-Campaign performance analysis and KPI reporting for the Female Founders Circle.
-
-**Highlights**
-- Social media analytics
-- KPI reporting
-- Campaign performance
-- Platform comparison
-- Marketing insights
-
-➡️ [View Project](FFC-Marketing-Analytics/)
+➡️ **[View Project](Human-Preference-Analysis/)**
 
 ### 💾 SQL Practice
 Collection of SQL queries demonstrating joins, aggregations, filtering, and reporting.
