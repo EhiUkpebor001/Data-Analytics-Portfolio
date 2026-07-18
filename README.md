@@ -64,7 +64,7 @@ Survey analysis using Excel, Power Query, and Pivot Tables.
 ### 💾 SQL Practice
 Collection of SQL queries demonstrating joins, aggregations, filtering, and reporting.
 
-➡️ [View Project](SQL-Practice/)
+➡️ **[View Project](SQL-Practice/)**
 
 ## 📜 Professional Certificates
 - 🎓 Professional Data Analytics Training – Speedlink Hi-Tech Solutions Limited
