@@ -1,4 +1,4 @@
-# 📊 Employee Workforce Analysis
+# 👔 Employee Workforce Analysis
 
 ## Overview
 This project analyzes workforce composition by examining employee onboarding trends, tenure, educational qualifications, job categories, salary ranges, and staff levels. The dashboard enables HR teams to better understand workforce structure and support strategic planning.
