@@ -1,4 +1,4 @@
-# 📊 Employee Data Analysis Dashboard
+# 📊 HR Workforce Analytics Dashboard
 
 ## Overview
 This project analyzes employee workforce data to uncover trends related to hiring, employee retention, salaries, education levels, job satisfaction, and work-life balance. <br> 
