@@ -1,3 +1,7 @@
+---
+title: Home
+---
+
 <p align="center" border-radius=20px>
   <img src="assets/images/Profile.jpg" alt="Ehiremhen Ukpebor" class="profile">
 </p>
