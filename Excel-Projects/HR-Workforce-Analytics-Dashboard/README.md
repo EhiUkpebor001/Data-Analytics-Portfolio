@@ -52,5 +52,5 @@ An interactive dashboard was developed using Microsoft Excel to support HR decis
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard.png)
+<img class="dashboard" src="Dashboard.png" alt="Dashboard image">
 
