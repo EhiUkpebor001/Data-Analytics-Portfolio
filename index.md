@@ -6,7 +6,7 @@
 
 <p align="center"> <b>Data Analyst • Excel • SQL • Power BI • Python</b> </p>
 
-<i align="center" font-size=9px> Turning data into actionable business insights through analytics and visualization. </i>
+<h4 align="center"> <i>Turning data into actionable business insights through analytics and visualization.</i> </h4>
 
 Welcome to my Data Analytics Portfolio. <br>
 I'm a Computer Science graduate with hands-on experience in data analytics, business reporting, and dashboard development. I enjoy transforming raw data into meaningful insights that support informed decision-making and process improvement.
