@@ -70,6 +70,3 @@ Throughout these projects, I have applied data analytics techniques across multi
 - 💡 Operational Analytics
 - 📋 Survey & Behavioral Analytics
 
-Thank you for visiting my portfolio! ❤️🤗  <br>
-I'm always excited to learn, collaborate, and apply data to solve real-world business problems. <br>
-If you'd like to discuss my projects or opportunities in data analytics, feel free to connect with me on LinkedIn or reach out via email.
