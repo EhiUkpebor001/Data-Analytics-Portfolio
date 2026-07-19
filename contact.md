@@ -23,5 +23,3 @@ https://linkedin.com/in/ehiremhen-ukpebor
 https://github.com/EhiUkpebor001
 
 ---
-
-Thank you for visiting my portfolio.
