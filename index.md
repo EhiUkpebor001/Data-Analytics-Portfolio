@@ -1,4 +1,4 @@
-<img src="assets/images/profile.jpg"
+<img src="assets/images/Profile.jpg"
      width="220"
      style="border-radius:50%;">
 
