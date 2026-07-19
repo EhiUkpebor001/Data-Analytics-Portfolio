@@ -37,29 +37,40 @@ An interactive HR dashboard analyzing employee demographics, salaries, hiring, a
 - Built interactive dashboards
 - Identified workforce trends
 
-➡️ **[View Project](HR-Workforce-Analytics-Dashboard/)**
+➡️ **[View Project](Excel-Projects/HR-Workforce-Analytics-Dashboard/)**
 
 ## 📂 Other Projects
 
 ### 👔 Employee Workforce Analysis
 Workforce analytics dashboard exploring employee onboarding, tenure, salary distribution, education, and job category trends using Microsoft Excel.
 
-➡️ **[View Project](Employee-Workforce-Analysis/)**
+➡️ **[View Project](Excel-Projects/Employee-Workforce-Analysis/)**
 
 ### 📣 Female Founders Circle Marketing Analytics
 Campaign performance analysis, KPI reporting, and marketing insights.
 
-➡️ **[View Project](FFC-Marketing-Analytics/)**
+➡️ **[View Project](Excel-Projects/FFC-Marketing-Analytics/)**
 
 ### 💡 Innovation Department KPI Dashboard
 Operational KPI dashboard built with a simulated dataset to monitor prototype development, commercialization, collaboration, and innovation performance.
 
-➡️ **[View Project](Innovation-KPI-Dashboard/)**
+➡️ **[View Project](Excel-Projects/Innovation-KPI-Dashboard/)**
 
 ### 👥 Human Preference Analysis
 Survey analysis using Excel, Power Query, and Pivot Tables.
 
-➡️ **[View Project](Human-Preference-Analysis/)**
+➡️ **[View Project](Excel-Projects/Human-Preference-Analysis/)**
+
+## 🛠 Other Technologies
+### 💾 SQL Projects
+Collection of SQL projects demonstrating data extraction, joins, aggregations, filtering, data cleaning, and business reporting.
+
+➡️ **[View Projects](SQL-Practice/)**
+
+### 📊 Power BI Projects
+Interactive dashboards and business intelligence reports developed using Microsoft Power BI.
+
+➡️ **[View Projects](PowerBI-Projects/)**
 
 ## 📜 Professional Certificates
 - 🎓 Professional Data Analytics Training – Speedlink Hi-Tech Solutions Limited
