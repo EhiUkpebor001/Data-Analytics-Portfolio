@@ -19,7 +19,7 @@ a{
 }
 
 a:hover{
-    color:#2563EB;
+    color:#2566EB;
 }
 
 .button{
@@ -48,6 +48,9 @@ a:hover{
     padding:20px 8%;
     background:white;
     box-shadow:0 3px 12px rgba(0,0,0,.08);
+    position:fixed;
+    z-index:1000;
+    top:0;
 }
 
 .navbar nav a{
@@ -58,7 +61,7 @@ a:hover{
 }
 
 .navbar nav a:hover{
-    color:#1b4f72;
+    color:#1b4f75;
 }
 
 /* CONTENT */
@@ -70,21 +73,21 @@ a:hover{
 }
 
 h1{
-    margin-bottom:20px;
+    margin-bottom:15px;
 }
 
 h2{
     margin-top:60px;
-    margin-bottom:20px;
+    margin-bottom:15px;
 }
 
 h3{
-    margin-top:35px;
+    margin-top:30px;
     margin-bottom:15px;
 }
 
 p{
-    margin-bottom:20px;
+    margin-bottom:15px;
     line-height:1.8;
 }
 
@@ -102,7 +105,7 @@ li{
 footer{
     margin-top:80px;
     text-align:center;
-    padding:40px;
+    padding:20px;
     background:#0f2d52;
     color:white;
 }
@@ -117,8 +120,8 @@ img{
 /* PROFILE IMAGE */
 
 .profile{
-    width:170px;
-    height:170px;
+    width:200px;
+    height:200px;
     object-fit:cover;
     border-radius:50%;
     display:block;
