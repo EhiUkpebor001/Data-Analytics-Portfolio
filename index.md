@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 <p align="center">
   <img src="assets/images/Profile.jpg" alt="Ehiremhen Ukpebor" class="profile">
 </p>
