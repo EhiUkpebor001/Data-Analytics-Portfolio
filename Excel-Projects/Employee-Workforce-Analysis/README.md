@@ -64,4 +64,4 @@ The dataset contains employee information, including: <br>
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard.png)
+<img class="dashboard" src="Dashboard.png" alt="Dashboard image">
