@@ -16,7 +16,7 @@ title: Home
 <h4 align="center"> <i>Turning data into actionable business insights through analytics and visualization.</i> </h4>
 
 <p align="center">
-    <a class="button" href="assets/downloads/Ehiremhen_Ukpebor_CV.pdf">  📄 Download CV  </a>
+    <a class="button" href="assets/downloads/Ukpebor_Ehiremhen_CV.pdf">  📄 Download CV  </a>
     <a class="button" href="https://www.linkedin.com/in/ehiremhen-ukpebor/">  💼 LinkedIn  </a>
     <a class="button" href="https://github.com/EhiUkpebor001/">  💻 GitHub  </a>
 </p>
