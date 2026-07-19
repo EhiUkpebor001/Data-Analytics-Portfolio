@@ -15,15 +15,16 @@ body{
     max-width:1200px;
 }
 
-.page-header {
-    background: linear-gradient(135deg, #1E3A8A, #2563EB);
-    color: white;
+.page-header{
+    background:linear-gradient( 135deg, #0F4C81, #1B6CA8 );
 }
 
 /* ========= HEADINGS ========= */
 
-h1,h2,h3{
-    color:#1E3A8A;
+// h1,h2,h3{    color:#1E3A8A;   }
+
+.page-header h1, .page-header h2, .page-header p, .page-header a{
+    color:white !important;
 }
 
 /* ========= LINKS ========= */
