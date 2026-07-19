@@ -1,5 +1,5 @@
 ---
-Contact
+title: Contact
 ---
 
 # Let's Connect
