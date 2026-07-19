@@ -65,7 +65,7 @@ Survey analysis using Excel, Power Query, and Pivot Tables.
 ### 💾 SQL Projects
 Collection of SQL projects demonstrating data extraction, joins, aggregations, filtering, data cleaning, and business reporting.
 
-➡️ **[View Projects](SQL-Practice/)**
+➡️ **[View Projects](SQL-Projects)**
 
 ### 📊 Power BI Projects
 Interactive dashboards and business intelligence reports developed using Microsoft Power BI.
