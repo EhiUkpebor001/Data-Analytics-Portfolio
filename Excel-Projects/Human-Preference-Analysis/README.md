@@ -65,4 +65,4 @@ The dataset consists of survey responses containing:
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard.png)
+<img class="dashboard" src="Dashboard.png" alt="Dashboard image">
