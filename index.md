@@ -1,10 +1,13 @@
-<img src="assets/images/Profile.jpg"
-     width="220"
-     style="border-radius:50%;">
+<p align="center" border-radius=20px>
+  <img src="{{ '/assets/images/Profile.jpg' | relative_url }}"  alt="Ehiremhen Ukpebor"  width="220"  style="border-radius:50%;">
+</p>
 
-# 👋 Hi, I'm Ehiremhen Ukpebor
+<h1 align="center">Hi, I'm Ehiremhen Ukpebor 👋</h1>
 
-## Data Analyst | Excel | SQL | Power BI | Python 
+<p align="center"> **Data Analyst • Excel • SQL • Power BI • Python** </p>
+
+<p align="center" font-size=10px> *Turning data into actionable business insights through analytics and visualization.* </p>
+
 Welcome to my Data Analytics Portfolio. <br>
 I'm a Computer Science graduate with hands-on experience in data analytics, business reporting, and dashboard development. I enjoy transforming raw data into meaningful insights that support informed decision-making and process improvement.
 
@@ -55,9 +58,8 @@ Throughout these projects, I have applied data analytics techniques across multi
 - 📋 Survey & Behavioral Analytics
 
 # ⭐ Featured Project
-+------------------------------+
 
-[Dashboard Image](HR-Workforce-Analytics-Dashboard/Dashboard.png)
+![HR Dashboard](HR-Workforce-Analytics-Dashboard/Dashboard.png)
 
 ## 📊 HR Workforce Analytics Dashboard
 An interactive Microsoft Excel dashboard developed to analyze workforce demographics, hiring trends, employee retention, salaries, education levels, job satisfaction, and work-life balance.
@@ -71,8 +73,6 @@ An interactive Microsoft Excel dashboard developed to analyze workforce demograp
 - Business Reporting
 
 ➡️ **[View Project](HR-Workforce-Analytics-Dashboard/)**
-
-+------------------------------+
 
 # 📂 Other Projects
 ## 👔 Employee Workforce Analysis
