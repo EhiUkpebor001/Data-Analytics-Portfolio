@@ -48,8 +48,6 @@ a:hover{
     padding:20px 8%;
     background:white;
     box-shadow:0 3px 12px rgba(0,0,0,.08);
-    position:fixed;
-    z-index:1000;
 }
 
 .navbar nav a{
