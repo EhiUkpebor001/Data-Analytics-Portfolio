@@ -1,3 +1,7 @@
+<img src="assets/images/profile.jpg"
+     width="220"
+     style="border-radius:50%;">
+
 # 👋 Hi, I'm Ehiremhen Ukpebor
 
 ## Data Analyst | Excel | SQL | Power BI | Python 
@@ -51,6 +55,10 @@ Throughout these projects, I have applied data analytics techniques across multi
 - 📋 Survey & Behavioral Analytics
 
 # ⭐ Featured Project
++------------------------------+
+
+[Dashboard Image](HR-Workforce-Analytics-Dashboard/Dashboard.png)
+
 ## 📊 HR Workforce Analytics Dashboard
 An interactive Microsoft Excel dashboard developed to analyze workforce demographics, hiring trends, employee retention, salaries, education levels, job satisfaction, and work-life balance.
 
@@ -63,6 +71,8 @@ An interactive Microsoft Excel dashboard developed to analyze workforce demograp
 - Business Reporting
 
 ➡️ **[View Project](HR-Workforce-Analytics-Dashboard/)**
+
++------------------------------+
 
 # 📂 Other Projects
 ## 👔 Employee Workforce Analysis
