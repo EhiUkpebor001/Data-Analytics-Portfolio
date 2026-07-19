@@ -1,8 +1,6 @@
 ---
-title: Certificates
+title: Professional Certifications
 ---
-
-# Professional Certifications
 
 This page contains certifications earned throughout my learning journey.
 
