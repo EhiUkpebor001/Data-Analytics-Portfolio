@@ -92,8 +92,8 @@ Professional certifications and training completed in data analytics and related
 
 # 📫 Contact
 📧 **Email:**  ehiremhenukpebor@gmail.com <br>
-💼 **LinkedIn:**  https://www.linkedin.com/in/ehiremhen-ukpebor/ <br>
-💻 **GitHub:**  https://github.com/EhiUkpebor001
+💼 **LinkedIn:**  [https://www.linkedin.com/in/ehiremhen-ukpebor](https://www.linkedin.com/in/ehiremhen-ukpebor/) <br>
+💻 **GitHub:**  [https://github.com/EhiUkpebor001](https://github.com/EhiUkpebor001/)
 
 Thank you for visiting my portfolio! ❤️🤗  <br>
 I'm always excited to learn, collaborate, and apply data to solve real-world business problems. <br>
