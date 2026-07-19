@@ -51,3 +51,33 @@ footer{
     background:#0f2d52;
     color:white;
 }
+
+/* ALL IMAGES */
+
+img{
+    max-width:100%;
+    height:auto;
+}
+
+/* PROFILE IMAGE */
+
+.profile{
+    width:170px;
+    height:170px;
+    object-fit:cover;
+    border-radius:50%;
+    display:block;
+    margin:auto;
+    box-shadow:0 8px 20px rgba(0,0,0,.15);
+}
+
+/* DASHBOARD IMAGES */
+
+.dashboard{
+    width:100%;
+    max-width:650px;
+    display:block;
+    margin:25px auto;
+    border-radius:12px;
+    box-shadow:0 10px 25px rgba(0,0,0,.08);
+}
