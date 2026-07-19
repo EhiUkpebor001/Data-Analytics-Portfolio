@@ -5,7 +5,7 @@ email: ehiremhenukpebor@gmail.com
 url: "https://ehiukpebor001.github.io"
 baseurl: "/Data-Analytics-Portfolio"
 
-theme: minima
+theme: jekyll-theme-cayman
 
 plugins:
   - jekyll-feed
