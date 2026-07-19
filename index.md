@@ -1,5 +1,5 @@
 <p align="center" border-radius=20px>
-  <img src="{{ '/assets/images/Profile.jpg' | relative_url }}"  alt="Ehiremhen Ukpebor"  width="220"  style="border-radius:50%;">
+  <img src="{'/assets/images/Profile.jpg'}"  alt="Ehiremhen Ukpebor"  width="220"  style="border-radius:50%;">
 </p>
 
 <h1 align="center">Hi, I'm Ehiremhen Ukpebor 👋</h1>
