@@ -4,9 +4,9 @@
 
 <h1 align="center">Hi, I'm Ehiremhen Ukpebor 👋</h1>
 
-<p align="center"> **Data Analyst • Excel • SQL • Power BI • Python** </p>
+<p align="center"> <b>Data Analyst • Excel • SQL • Power BI • Python</b> </p>
 
-<p align="center" font-size=10px> *Turning data into actionable business insights through analytics and visualization.* </p>
+<i align="center" font-size=9px> Turning data into actionable business insights through analytics and visualization. </i>
 
 Welcome to my Data Analytics Portfolio. <br>
 I'm a Computer Science graduate with hands-on experience in data analytics, business reporting, and dashboard development. I enjoy transforming raw data into meaningful insights that support informed decision-making and process improvement.
