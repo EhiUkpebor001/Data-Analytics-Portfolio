@@ -2,8 +2,6 @@
 title: Projects
 ---
 
-# Projects
-
 Explore my portfolio across different analytics tools.
 
 ---
