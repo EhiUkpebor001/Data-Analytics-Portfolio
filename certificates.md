@@ -1,5 +1,5 @@
 ---
-Certificates
+title: Certificates
 ---
 
 # Professional Certifications
