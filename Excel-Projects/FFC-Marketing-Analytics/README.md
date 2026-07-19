@@ -78,4 +78,4 @@ Based on the available campaign data (14 April - 5 May 2026):
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard.png)
+<img class="dashboard" src="Dashboard.png" alt="Dashboard image">
