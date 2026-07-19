@@ -50,8 +50,6 @@ a:hover{
     box-shadow:0 3px 12px rgba(0,0,0,.08);
     position:fixed;
     z-index:1000;
-    top:0;
-    width: 100%;
 }
 
 .navbar nav a{
@@ -69,7 +67,7 @@ a:hover{
 
 .container{
     max-width:1200px;
-    margin: 50px auto;
+    margin:auto;
     padding:60px 60px;
 }
 
