@@ -62,4 +62,4 @@ A self-generated dataset was created containing:
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard.png)
+<img class="dashboard" src="Dashboard.png" alt="Dashboard image">
