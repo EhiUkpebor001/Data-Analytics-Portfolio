@@ -85,11 +85,6 @@ Survey data analysis using Microsoft Excel to uncover demographic trends, lifest
 
 ➡️ **[View Project](Human-Preference-Analysis/)**
 
-## 🗄 SQL Practice
-A collection of SQL queries demonstrating data retrieval, filtering, joins, aggregations, and reporting using real-world business scenarios.
-
-➡️ **[View Project](SQL-Practice/)**
-
 # 📜 Certifications
 Professional certifications and training completed in data analytics and related technologies.
 
