@@ -1,12 +1,20 @@
 <p align="center" border-radius=20px>
-  <img src="assets/images/Profile.jpg"  alt="Ehiremhen Ukpebor"  width="220"  style="border-radius:50%;">
+  <img src="assets/images/Profile.jpg" alt="Ehiremhen Ukpebor" class="profile">
 </p>
 
 <h1 align="center">Hi, I'm Ehiremhen Ukpebor 👋</h1>
 
-<p align="center"> <b>Data Analyst • Excel • SQL • Power BI • Python</b> </p>
+<h3 align="center"> Data Analyst </h3>
+
+<p align="center"> Excel • SQL • Power BI • Python </p>
 
 <h4 align="center"> <i>Turning data into actionable business insights through analytics and visualization.</i> </h4>
+
+<p align="center">
+    <a class="button" href="{{ '/assets/downloads/Ehiremhen_Ukpebor_CV.pdf' | relative_url }}">  📄 Download CV  </a>
+    <a class="button" href="https://www.linkedin.com/in/ehiremhen-ukpebor/">  💼 LinkedIn  </a>
+    <a class="button" href="https://https://github.com/EhiUkpebor001/">  💻 GitHub  </a>
+</p>
 
 Welcome to my Data Analytics Portfolio. <br>
 I'm a Computer Science graduate with hands-on experience in data analytics, business reporting, and dashboard development. I enjoy transforming raw data into meaningful insights that support informed decision-making and process improvement.
@@ -56,54 +64,6 @@ Throughout these projects, I have applied data analytics techniques across multi
 - 📣 Marketing Analytics
 - 💡 Operational Analytics
 - 📋 Survey & Behavioral Analytics
-
-# ⭐ Featured Project
-
-![HR Dashboard](HR-Workforce-Analytics-Dashboard/Dashboard.png)
-
-## 📊 HR Workforce Analytics Dashboard
-An interactive Microsoft Excel dashboard developed to analyze workforce demographics, hiring trends, employee retention, salaries, education levels, job satisfaction, and work-life balance.
-
-### Skills Demonstrated
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- HR Analytics
-- Dashboard Development
-- Data Visualization
-- Business Reporting
-
-➡️ **[View Project](HR-Workforce-Analytics-Dashboard/)**
-
-# 📂 Other Projects
-## 👔 Employee Workforce Analysis
-Workforce analytics dashboard exploring employee onboarding, tenure, salary distribution, education, and job category trends using Microsoft Excel.
-
-➡️ **[View Project](Employee-Workforce-Analysis/)**
-
-## 📣 Female Founders Circle Marketing Analytics
-Real-world volunteer project analyzing social media campaign performance, engagement metrics, and marketing KPIs to support data-driven decisions for the FFC Networking Cocktail 2.0 event.
-
-➡️ **[View Project](FFC-Marketing-Analytics/)**
-
-## 💡 Innovation Department KPI Dashboard
-Operational KPI dashboard built with a simulated dataset to monitor prototype development, commercialization, collaboration, and innovation performance.
-
-➡️ **[View Project](Innovation-KPI-Dashboard/)**
-
-## 👥 Human Preference Analysis
-Survey data analysis using Microsoft Excel to uncover demographic trends, lifestyle preferences, and behavioral patterns through interactive dashboards.
-
-➡️ **[View Project](Human-Preference-Analysis/)**
-
-# 📜 Certifications
-Professional certifications and training completed in data analytics and related technologies.
-
-➡️ **[View Certificates](Certificates/)**
-
-# 📫 Contact
-📧 **Email:**  ehiremhenukpebor@gmail.com <br>
-💼 **LinkedIn:**  [https://www.linkedin.com/in/ehiremhen-ukpebor](https://www.linkedin.com/in/ehiremhen-ukpebor/) <br>
-💻 **GitHub:**  [https://github.com/EhiUkpebor001](https://github.com/EhiUkpebor001/)
 
 Thank you for visiting my portfolio! ❤️🤗  <br>
 I'm always excited to learn, collaborate, and apply data to solve real-world business problems. <br>
