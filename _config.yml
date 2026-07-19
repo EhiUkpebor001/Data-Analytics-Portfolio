@@ -1,3 +1,22 @@
 title: Ehiremhen Ukpebor
 description: Data Analytics Portfolio
-theme: jekyll-theme-cayman
+email: ehiremhenukpebor@gmail.com
+
+url: "https://ehiukpebor001.github.io"
+baseurl: "/Data-Analytics-Portfolio"
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+
+header_pages:
+  - about.md
+  - projects.md
+  - certificates.md
+  - contact.md
+
+show_downloads: false
+
+author:
+  name: Ehiremhen Ukpebor
