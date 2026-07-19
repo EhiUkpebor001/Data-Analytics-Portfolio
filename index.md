@@ -1,8 +1,4 @@
----
-title: Home
----
-
-<p align="center" border-radius=20px>
+<p align="center">
   <img src="assets/images/Profile.jpg" alt="Ehiremhen Ukpebor" class="profile">
 </p>
 
