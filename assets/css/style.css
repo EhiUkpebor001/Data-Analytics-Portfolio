@@ -41,13 +41,21 @@ a:hover{
 
 /* NAVIGATION */
 
-.navbar{
-    display:flex;
-    justify-content:space-between;
-    align-items:center;
-    padding:20px 8%;
-    background:white;
-    box-shadow:0 3px 12px rgba(0,0,0,.08);
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: white;
+    z-index: 1000;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 20px 8%;
+
+    box-shadow: 0 3px 15px rgba(0,0,0,0.08);
 }
 
 .navbar nav a{
@@ -63,10 +71,10 @@ a:hover{
 
 /* CONTENT */
 
-.container{
-    max-width:1200px;
-    margin:auto;
-    padding:60px 60px;
+.container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 110px 40px 60px;
 }
 
 h1{
